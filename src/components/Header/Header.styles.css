@@ -1,0 +1,30 @@
+.root {
+  flex-grow: 1;
+  position: relative;
+}
+
+.menu-button {
+  margin-right: auto;
+}
+
+.title {
+  flex-grow: 1;
+}
+
+.search {
+  position: relative;
+  border-radius: 10px;
+  background-color: cyan;
+  margin-right: auto;
+  margin-left: 0;
+  width: '100%';
+}
+
+.search-icon {
+  padding: '2%';
+  height: '100%';
+  position: 'absolute';
+  display: 'flex';
+  align-items: 'center';
+  justify-content: 'center';
+}
