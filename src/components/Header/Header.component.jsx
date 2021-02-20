@@ -12,7 +12,7 @@ import './Header.styles.css';
 
 function Header() {
   return (
-    <div className="root">
+    <div className="header">
       <AppBar position="static">
         <Toolbar>
           <IconButton className="menu-button">

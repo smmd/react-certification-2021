@@ -1,0 +1,52 @@
+
+> react-certification-2020@0.1.0 test /Users/sagrario.meneses/code-game/react-certification-2021
+> react-scripts test "--coverage" "--watchAll"
+
+------------------------|---------|----------|---------|---------|-------------------
+File                    | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+------------------------|---------|----------|---------|---------|-------------------
+All files               |   11.25 |        0 |   16.67 |   11.25 |                   
+ src                    |       0 |      100 |     100 |       0 |                   
+  index.js              |       0 |      100 |     100 |       0 | 7                 
+ src/components/App     |       0 |      100 |       0 |       0 |                   
+  App.component.jsx     |       0 |      100 |       0 |       0 | 16-34             
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/components/Fortune |       0 |      100 |       0 |       0 |                   
+  Fortune.component.jsx |       0 |      100 |       0 |       0 | 7-9               
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/components/Header  |     100 |      100 |     100 |     100 |                   
+  Header.component.jsx  |     100 |      100 |     100 |     100 |                   
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/components/Layout  |       0 |      100 |       0 |       0 |                   
+  Layout.component.jsx  |       0 |      100 |       0 |       0 | 6                 
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/components/List    |     100 |      100 |     100 |     100 |                   
+  VideoList.jsx         |     100 |      100 |     100 |     100 |                   
+  VideoListStyled.js    |     100 |      100 |     100 |     100 |                   
+ src/components/Private |       0 |        0 |       0 |       0 |                   
+  Private.component.jsx |       0 |        0 |       0 |       0 | 7-10              
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/pages/Home         |       0 |        0 |       0 |       0 |                   
+  Home.page.jsx         |       0 |        0 |       0 |       0 | 9-19              
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/pages/Login        |       0 |      100 |       0 |       0 |                   
+  Login.page.jsx        |       0 |      100 |       0 |       0 | 8-17              
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/pages/NotFound     |       0 |      100 |       0 |       0 |                   
+  NotFound.page.jsx     |       0 |      100 |       0 |       0 | 7                 
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/pages/Secret       |       0 |      100 |       0 |       0 |                   
+  Secret.page.jsx       |       0 |      100 |       0 |       0 | 5                 
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/providers/Auth     |       0 |        0 |       0 |       0 |                   
+  Auth.provider.jsx     |       0 |        0 |       0 |       0 | 6-36              
+  index.js              |       0 |        0 |       0 |       0 |                   
+ src/utils              |       0 |      100 |       0 |       0 |                   
+  constants.js          |       0 |      100 |     100 |       0 | 1                 
+  fns.js                |       0 |      100 |       0 |       0 | 2                 
+  storage.js            |       0 |      100 |       0 |       0 | 1-13              
+ src/utils/hooks        |       0 |      100 |       0 |       0 |                   
+  useFortune.js         |       0 |      100 |       0 |       0 | 5-28              
+------------------------|---------|----------|---------|---------|-------------------
+
+

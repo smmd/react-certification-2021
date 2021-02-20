@@ -1,0 +1,15 @@
+{
+  "video": {
+    "id": {
+      "videoId": "test"
+    },
+    "snippet": {
+      "title": "Wizeline",
+      "thumbnails": {
+        "default": {
+          "url": "https://youtube.com"
+        }
+      }
+    }
+  }
+}
