@@ -1,4 +1,5 @@
 {
+  "homepage": "https://smmd.github.io/react-certification-2020/",
   "name": "react-certification-2020",
   "version": "0.1.0",
   "private": true,
@@ -25,7 +26,9 @@
     "test:coverage": "npm run test -- --coverage --watchAll > coverage-report.txt",
     "eject": "react-scripts eject",
     "lint": "eslint ./src --ext .js,.jsx",
-    "lint:fix": "eslint ./src --ext .js,.jsx --fix"
+    "lint:fix": "eslint ./src --ext .js,.jsx --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.0",
@@ -36,6 +39,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.0",
+    "gh-pages": "^3.1.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.13",
     "prettier": "^2.1.1",
