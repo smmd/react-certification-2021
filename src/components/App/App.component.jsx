@@ -37,7 +37,7 @@ function App() {
         <Header />
         <Layout>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/react-certification-2021/">
               <HomePage />
             </Route>
             <Route exact path="/login">
