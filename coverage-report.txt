@@ -5,7 +5,7 @@
 ------------------------|---------|----------|---------|---------|-------------------
 File                    | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 ------------------------|---------|----------|---------|---------|-------------------
-All files               |   11.25 |        0 |   16.67 |   11.25 |                   
+All files               |   21.11 |        0 |   19.35 |   20.22 |                   
  src                    |       0 |      100 |     100 |       0 |                   
   index.js              |       0 |      100 |     100 |       0 | 7                 
  src/components/App     |       0 |      100 |       0 |       0 |                   
@@ -16,11 +16,14 @@ All files               |   11.25 |        0 |   16.67 |   11.25 |
   index.js              |       0 |        0 |       0 |       0 |                   
  src/components/Header  |     100 |      100 |     100 |     100 |                   
   Header.component.jsx  |     100 |      100 |     100 |     100 |                   
+  HeaderStyled.js       |     100 |      100 |     100 |     100 |                   
   index.js              |       0 |        0 |       0 |       0 |                   
  src/components/Layout  |       0 |      100 |       0 |       0 |                   
   Layout.component.jsx  |       0 |      100 |       0 |       0 | 6                 
   index.js              |       0 |        0 |       0 |       0 |                   
  src/components/List    |     100 |      100 |     100 |     100 |                   
+  VideoInfo.js          |     100 |      100 |     100 |     100 |                   
+  VideoInfoStyled.js    |     100 |      100 |     100 |     100 |                   
   VideoList.jsx         |     100 |      100 |     100 |     100 |                   
   VideoListStyled.js    |     100 |      100 |     100 |     100 |                   
  src/components/Private |       0 |        0 |       0 |       0 |                   

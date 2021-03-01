@@ -17,6 +17,9 @@ Mini-Challenge 2: Intro to Testing:
 
 ```
 Those that execute react logic.
+Components that interact with the user (we can do it sending mocked data).
+
+Dommies Components (those to which you send any data as property without any special behavior) should not be tested.
 ```
 
 3. Can you apply TDD once you already created components?
