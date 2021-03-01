@@ -6,7 +6,7 @@ function SecretPage() {
     <section>
       <pre>
         welcome, voyager...
-        <Link to="/"> ← go back</Link>
+        <Link to="/react-certification-2021/"> ← go back</Link>
       </pre>
       <iframe
         width="800"

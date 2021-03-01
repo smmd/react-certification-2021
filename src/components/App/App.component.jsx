@@ -10,6 +10,7 @@ import Private from '../Private';
 import Fortune from '../Fortune';
 import Layout from '../Layout';
 import { random } from '../../utils/fns';
+import Header from '../Header';
 
 function App() {
   useLayoutEffect(() => {
@@ -33,9 +34,10 @@ function App() {
   return (
     <BrowserRouter>
       <AuthProvider>
+        <Header />
         <Layout>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/react-certification-2021/">
               <HomePage />
             </Route>
             <Route exact path="/login">
