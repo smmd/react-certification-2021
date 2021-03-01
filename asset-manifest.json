@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-certification-2021/static/css/main.7afee728.chunk.css",
-    "main.js": "/react-certification-2021/static/js/main.7c999e17.chunk.js",
-    "main.js.map": "/react-certification-2021/static/js/main.7c999e17.chunk.js.map",
+    "main.css": "/react-certification-2021/static/css/main.939662aa.chunk.css",
+    "main.js": "/react-certification-2021/static/js/main.800fecef.chunk.js",
+    "main.js.map": "/react-certification-2021/static/js/main.800fecef.chunk.js.map",
     "runtime-main.js": "/react-certification-2021/static/js/runtime-main.328bbe40.js",
     "runtime-main.js.map": "/react-certification-2021/static/js/runtime-main.328bbe40.js.map",
-    "static/js/2.0237aebb.chunk.js": "/react-certification-2021/static/js/2.0237aebb.chunk.js",
-    "static/js/2.0237aebb.chunk.js.map": "/react-certification-2021/static/js/2.0237aebb.chunk.js.map",
+    "static/js/2.80d346ac.chunk.js": "/react-certification-2021/static/js/2.80d346ac.chunk.js",
+    "static/js/2.80d346ac.chunk.js.map": "/react-certification-2021/static/js/2.80d346ac.chunk.js.map",
     "index.html": "/react-certification-2021/index.html",
-    "static/css/main.7afee728.chunk.css.map": "/react-certification-2021/static/css/main.7afee728.chunk.css.map",
-    "static/js/2.0237aebb.chunk.js.LICENSE.txt": "/react-certification-2021/static/js/2.0237aebb.chunk.js.LICENSE.txt"
+    "static/css/main.939662aa.chunk.css.map": "/react-certification-2021/static/css/main.939662aa.chunk.css.map",
+    "static/js/2.80d346ac.chunk.js.LICENSE.txt": "/react-certification-2021/static/js/2.80d346ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.328bbe40.js",
-    "static/js/2.0237aebb.chunk.js",
-    "static/css/main.7afee728.chunk.css",
-    "static/js/main.7c999e17.chunk.js"
+    "static/js/2.80d346ac.chunk.js",
+    "static/css/main.939662aa.chunk.css",
+    "static/js/main.800fecef.chunk.js"
   ]
 }
